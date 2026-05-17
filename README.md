@@ -80,8 +80,6 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 
 # 📈 GitHub Stats
 
-# 📈 GitHub Stats
-
 <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil-siddhapura&show_icons=true&theme=github_dark&cache_seconds=1800"/>
