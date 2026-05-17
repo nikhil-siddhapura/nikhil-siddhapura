@@ -89,6 +89,15 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nikhil-siddhapura/nikhil-siddhapura/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
+---
+
 # 🔥 Contribution Graph
 
 <p align="center">
