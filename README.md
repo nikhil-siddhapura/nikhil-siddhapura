@@ -101,7 +101,7 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 # 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-siddhapura&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/nikhil-siddhapura/nikhil-siddhapura/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
