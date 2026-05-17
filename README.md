@@ -52,8 +52,6 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 
 ---
 
-# 💼 Featured Project
-
 # 🚀 Future Goals
 
 - Learning DevOps
