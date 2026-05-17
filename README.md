@@ -74,7 +74,6 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 - Feedback System
 - Contact Management
 - Profile & Avatar Upload
-- REST API Integration
 
 ---
 
