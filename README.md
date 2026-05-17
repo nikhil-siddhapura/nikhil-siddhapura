@@ -81,9 +81,9 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil-siddhapura&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil-siddhapura&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-siddhapura&layout=compact&theme=github_dark&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-siddhapura&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </p>
 
