@@ -1,16 +1,105 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhil Siddhapura</h1>
 
-<!--
-**nikhil-siddhapura/nikhil-siddhapura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=DevOps+Learner;Future+Full+Stack+Developer;FastAPI+%7C+JavaScript+%7C+Nginx;Building+Real+World+Projects" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+- 🌱 Currently learning **DevOps**
+- 💻 Building projects using **JavaScript & FastAPI**
+- ⚡ Exploring **Apache, Nginx & Backend Systems**
+- 🎯 Goal: Become a **Full Stack Developer**
+- 🛠️ Love building real-world applications
+- 📚 Continuously learning modern web technologies
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhil-siddhapura-831491276/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+</p>
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=nginx" />
+
+</p>
+
+---
+
+# 💼 Featured Project
+
+## 🏨 ComfortCasa Paradise
+
+> Resort booking and management system
+
+### 🔧 Built With
+- FastAPI
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Apache
+- Nginx
+
+### ✨ Features
+- User Authentication
+- Room Booking System
+- Admin Dashboard
+- Category & Product Management
+- Feedback System
+- Contact Management
+- Profile & Avatar Upload
+- REST API Integration
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil-siddhapura&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil-siddhapura&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhil-siddhapura&theme=tokyo-night" />
+</p>
+
+---
+
+# 💡 DevOps Mindset
+
+```bash
+Learn → Build → Break → Fix → Deploy → Repeat
