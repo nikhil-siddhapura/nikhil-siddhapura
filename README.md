@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Siddhapura</h1>
+<h1 align="center">Hi, I'm Nikhil Siddhapura</h1>
 
 <h3 align="center">
 DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
