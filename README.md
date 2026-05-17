@@ -54,6 +54,13 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 
 # 💼 Featured Project
 
+# 🚀 Future Goals
+
+- Learning DevOps
+- Building Full Stack Projects
+- Exploring FastAPI
+- Building Real World Projects
+
 ## 🏨 ComfortCasa Paradise
 
 > Resort booking and management system
