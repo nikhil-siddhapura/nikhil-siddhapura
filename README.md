@@ -76,13 +76,12 @@ DevOps Learner • Future Full Stack Developer • JavaScript Enthusiast
 - Profile & Avatar Upload
 
 ---
-# 📈 GitHub Stats
+# 📈 GitHub Status
 
 <p align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhil-siddhapura&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhil-siddhapura&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 
 </p>
 
